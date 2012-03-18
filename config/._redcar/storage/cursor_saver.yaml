@@ -1,0 +1,18 @@
+--- 
+cursor_positions: 
+  - :path: routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 15:40:34.713000 -04:00
+  - :path: environment.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 15:12:16.336000 -04:00
+  - :path: database.yml
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 15:12:18.341000 -04:00
+  - :path: boot.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 15:12:18.335000 -04:00
+  - :path: application.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 15:12:16.331000 -04:00
+files_to_retain: 0
